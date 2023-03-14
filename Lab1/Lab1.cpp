@@ -9,6 +9,7 @@ int main()
 
    int x = 22;
    int y = 18;
+   int z = 10;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
